@@ -1,12 +1,5 @@
-nftset=/framer.com/4#inet#fw4#vpn_domains
-nftset=/framerstatic.com/4#inet#fw4#vpn_domains
-nftset=/framercanvas.com/4#inet#fw4#vpn_domains
-nftset=/framerusercontent.com/4#inet#fw4#vpn_domains
-nftset=/framercdn.com/4#inet#fw4#vpn_domains
-nftset=/framer.app/4#inet#fw4#vpn_domains
-nftset=/jspm.io/4#inet#fw4#vpn_domains
-nftset=/framer.website/4#inet#fw4#vpn_domains
-nftset=/framer.photos/4#inet#fw4#vpn_domains
-nftset=/framer.media/4#inet#fw4#vpn_domains
-nftset=/framer.wiki/4#inet#fw4#vpn_domains
-nftset=/well-known/4#inet#fw4#vpn_domains
+nftset=/uizard.io/4#inet#fw4#vpn_domains
+nftset=/app.uizard.io/4#inet#fw4#vpn_domains
+nftset=/api.uizard.io/4#inet#fw4#vpn_domains
+nftset=/cdn.uizard.io/4#inet#fw4#vpn_domains
+nftset=/assets.uizard.io/4#inet#fw4#vpn_domains
